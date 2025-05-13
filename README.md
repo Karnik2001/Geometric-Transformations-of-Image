@@ -12,6 +12,7 @@ This is a simple project that demonstrates basic image processing techniques uti
 - **Affine Transformation** – Warp the image using point mapping  
 
 
-## Citations
+## 📝 Attribution
 
-https://www.geeksforgeeks.org/geometric-transformation-in-image-processing-1/
+This code was generated with the assistance of **ChatGPT by OpenAI**, based on prompts describing geometric image transformations in Python using OpenCV.  
+Theoretical guidance was taken from GeeksforGeeks (2024): [Geometric Transformation in Image Processing | Set-1](https://www.geeksforgeeks.org/geometric-transformation-in-image-processing-1/).
