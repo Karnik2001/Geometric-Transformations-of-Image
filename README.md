@@ -1,7 +1,7 @@
 # Geometric-Transformations-of-Image
 
 ## Project
-This is a simple project that demonstrates basic image processing techniques utilized in images which is applicable to a variety of applications including image registration, computer vision, medical imaging, remote sensing, and robotics. 
+This is a simple project that demonstrates basic image processing techniques utilized in images applicable to a variety of applications including image registration, computer vision, medical imaging, remote sensing, and robotics. 
 
 ## Project Structure
 
