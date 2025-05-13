@@ -10,3 +10,8 @@ This is a simple project that demonstrates basic image processing techniques uti
 - **Scaling** – Resize the image larger or smaller  
 - **Shearing** – Skew the image shape diagonally  
 - **Affine Transformation** – Warp the image using point mapping  
+
+
+## Citations
+
+https://www.geeksforgeeks.org/geometric-transformation-in-image-processing-1/
